@@ -62,7 +62,7 @@ For learning the basics of Transformer models
 For math-based CLI tools
 
 ## 🧪 Testing
-We are testing our models in Google Colab with v2-8 TPU and 330 GB of RAM capacity
+We are testing and training our models in Google Colab with v2-8 TPU and 330 GB of RAM capacity
 
 ## 📜 License
 MIT License. Open-source and free to use in personal or educational projects
