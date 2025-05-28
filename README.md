@@ -1,5 +1,5 @@
 # READ THIS FOR A BIT
-You are now in candy branch where Victus-1M has a bigger dataset.
+You are now in candy branch, where Victus-1M has a bigger dataset.
 The loss can be higher on this branch.
 
 # Victus 1M
