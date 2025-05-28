@@ -1,6 +1,6 @@
-# victus-1b
+# victus-1m
 
-**victus-1b** is a minimalist math-focused language model built for educational and experimental purposes. It runs on both mobile and desktop platforms with minimal resource usage and no reliance on massive libraries.
+**victus-1m** is a minimalist math-focused language model built for educational and experimental purposes. It runs on both mobile and desktop platforms with minimal resource usage and no reliance on massive libraries.
 
 > ⚠️ **Disclaimer:** This project is **not related to cybersecurity**, hacking, penetration testing, or reverse engineering. It is purely a lightweight AI chatbot for solving simple math expressions.
 
@@ -8,7 +8,7 @@
 
 ## 🎯 What is this?
 
-victus-1b is:
+victus-1m is:
 
 - A **tiny Transformer-based model** for math problem solving.
 - Built to be **portable and lightweight** (e.g. for Android, Raspberry Pi, Hexrail or old PCs).
